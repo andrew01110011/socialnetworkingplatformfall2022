@@ -1,0 +1,28 @@
+main {
+  padding-top: 20px;
+}
+body {
+  background-color: #F3F3F3;
+}
+.wrapper-main {
+  width: 65%;
+  margin: 0 auto;
+  margin-bottom: 10px
+}
+.section-default {
+  padding: 20px;
+  border-radius: 6px;
+  background-color: #FFF;
+}
+.login-status {
+  text-align: center;
+  text-align: center;
+  font-family: arial;
+  color: #3F6ADD;
+}
+.login-status1 {
+  text-align: center;
+  text-align: center;
+  font-family: arial;
+  color: #3F6ADD;
+}

@@ -1,0 +1,61 @@
+main {
+  padding-top: 20px;
+}
+body {
+  background-color: #F3F3F3;
+}
+p, .admin{
+  font-family: arial;
+}
+p.hello {
+  text-align: center;
+  margin-bottom: 5px;
+}
+.formdiv {
+  display:flex;
+  justify-content: center;
+}
+.admin {
+  color: red;
+  margin-bottom: 5px;
+}
+.wrapper-main {
+  width: 65%;
+  margin: 0 auto;
+  margin-bottom: 10px
+}
+.section-default {
+  padding: 20px;
+  border-radius: 6px;
+  background-color: #FFF;
+}
+label, .myButton{
+  background-color: #333;
+  padding: 10px 10px 10px 10px;
+  cursor: pointer;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+  border: none;
+  border-radius: 4px;
+  margin-left: 8px;
+  font-family: arial;
+  font-size: 13px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+.myButton:hover {
+  background:linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
+  background-color:#333;
+}
+.myButton:active {
+  position:relative;
+  top:1px;
+}
+.hi:hover {
+  background:linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
+  background-color:#333;
+}
+.hi:active {
+  position:relative;
+  top:1px;
+}

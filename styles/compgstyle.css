@@ -1,0 +1,82 @@
+body {
+  background-color: #F3F3F3;
+}
+textarea.helpme {
+  width: 400px;
+  height: 80px;
+  background-color: #fff;
+  resize: none;
+}
+button.helpme {
+  background-color: #333;
+  padding: 10px 10px 10px 10px;
+  cursor: pointer;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+  border: none;
+  border-radius: 4px;
+  margin-left: 8px;
+  font-family: arial;
+  font-size: 13px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+.comment-box {
+  width: 600px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 4px;
+  position: relative;
+  margin:0px auto;
+  left:0;
+  right:0;
+  margin-bottom: 10px
+}
+.comment-box {
+  font-family: arial;
+  font-size: 14px;
+  line-height:16px;
+  color: #282828;
+  font-weight: 100;
+}
+.edit-form {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+.edit-form button{
+  width: 40px;
+  height: 20px;
+  color: #282828;
+  background-color: #fff;
+  opacity: 0.7;
+}
+.edit-form button:hover{
+  opacity: 1;
+}
+.delete-form {
+  position: absolute;
+  top: 0px;
+  right: 55px;
+}
+.delete-form button{
+  width: 40px;
+  height: 20px;
+  color: #282828;
+  background-color: #fff;
+  opacity: 0.7;
+}
+.delete-form button:hover{
+  opacity: 1;
+}
+.pphole {
+  color:red;
+  float: right;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.message {
+    text-align: center;
+    font-family: arial;
+}

@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+.header-login button {
+  cursor: pointer;
+}
+header {
+  width: calc(100% - 30px);
+  height: 20%;
+  padding: 0 15px;
+  background-color: #FFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-header-main {
+  height: 80%;
+  display: flex;
+  flex-direction: row;
+}
+.header-logo {
+  max-width: 48px;
+  max-height: 48px;
+  min-width: 48px;
+  min-height: 48px;
+  padding-right: 20px;
+}
+.nav-header-main img {
+  height: 100%;
+  width: 100%;
+}
+.nav-header-main ul {
+  height: 100%;
+}
+.nav-header-main ul li {
+  list-style: none;
+  float: left;
+  height: 100%;
+}
+.nav-header-main ul li a {
+  display: block;
+  height: 100%;
+  padding: 0 10px;
+  border-radius: 6px;
+  line-height: 48px;
+  font-family: arial;
+  font-size: 16px;
+  color: #111;
+  text-transform: uppercase;
+}
+.header-login {
+  height: 60%;
+  display: flex;
+  flex-direction: row;
+}
+.header-login form {
+  height: 100%;
+}
+.header-login form input {
+  height: 100%;
+  width: 160px;
+  padding: 10px 10px 10px 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #F6F6F6;
+  float: left;
+  margin-left: 8px;
+  font-family: arial;
+  margin: 4px 0px 4px 4px;
+}
+.header-login form button {
+  height: 100%;
+  padding: 10px 10px 10px 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #333;
+  margin-left: 8px;
+  font-family: arial;
+  font-size: 13px;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+}
+.header-signup {
+  height: 100%;
+  width: 70px;
+  padding: 0 6px;
+  border: none;
+  border-radius: 4px;
+  margin-left: 8px;
+  font-family: arial;
+  font-size: 13px;
+  line-height: 36px;
+  color: #111;
+  text-transform: uppercase;
+  text-align: center;
+}
+p.footertext  {
+  color: black;
+  text-align: center;
+  font-family: arial;
+}
+p.userlevel{
+  font-family: arial;
+  font-size: 13px;
+  text-transform: uppercase;
+  color: black;
+  background-color: #777;
+  padding: 10px 5px 5px 5px;
+  border-radius: 5px;
+}
+.submitter:hover {
+  background:linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
+  background-color:#333;
