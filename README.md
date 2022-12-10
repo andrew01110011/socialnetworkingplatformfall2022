@@ -47,4 +47,5 @@ Website Admin Configuration:
 9. This user is now an admin on the website and can remove other users comments.
 
 Usage:  
-Examples of how your application/project works and how it can be used (functional operations). Include essential code snippets and sample execution screenshots.
+![alt text](https://github.com/spandexknight/socialnetworkingplatformfall2022/blob/main/use-case-diagram.jpg?raw=true)
+
