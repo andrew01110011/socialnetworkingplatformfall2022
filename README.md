@@ -25,7 +25,7 @@ Configuration:
     emailUsers TINYTEXT NOT NULL,
     pwdUsers LONGTEXT NOT NULL,
     roleUsers int(11) NOT NULL
-    );
+    );  
     CREATE TABLE comments1 (
     cid int(11) not null AUTO_INCREMENT PRIMARY KEY,
     uid varchar(128) not null,
