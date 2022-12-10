@@ -3,7 +3,7 @@ About the Project:
 This is a web based social media platform geared specifically towards car enthusiasts. With these consumers specifically in mind, the platform supports user uploaded high-definition images in a dynamic photo gallery. The social networking platform also includes capabilities for users to comment and reply to peers. The objective of the platform is to provide a convenient, user friendly forum for likeminded car enthusiasts to gather, anywhere in the world with internet connectivity.
 
 Motivation:  
-Short description of the motivation for the project.
+My motivation for this project was to get a good grade in Software Engineering and to showcase my skills for web development.
 
 Installation:  
 1. Setup a PHP development environment / webserver. For this installation example we will chose to use XAMPP.
