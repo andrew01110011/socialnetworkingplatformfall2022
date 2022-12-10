@@ -11,7 +11,7 @@ Installation:
 3. Install XAMPP using the downloaded installer.
 4. Boot your XAMPP manager application and click "Open Application Folder". Alternatively, navigate to  your "xamppfiles" directory.
 5. Open the "htdocs" directory within the "xamppfiles" directory.
-6. Paste the contents of this GitHub repo inside of the "htdocs" directory.
+6. Paste the contents of this GitHub repo inside of the "htdocs" directory (the "use-case-diagram.jpg" file is not needed, nor is the "Readme.md" file).
 
 Configuration:
 1. In the XAMPP manager application start the "Apache Web Server" and "MySQL Database".
