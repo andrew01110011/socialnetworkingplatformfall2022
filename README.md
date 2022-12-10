@@ -22,3 +22,24 @@ Contact
 Your name:
 
 https://www.makeareadme.com/
+
+To Fill:
+dbh.inc.php
+commentdbh.inc.php
+
+SQL:
+CREATE TABLE users (
+idUsers int(11) AUTO_INCREMENT PRIMARY KEY NOT NULL,
+usernameUsers TINYTEXT NOT NULL,
+emailUsers TINYTEXT NOT NULL,
+pwdUsers LONGTEXT NOT NULL,
+roleUsers int(11) NOT NULL
+);
+
+
+CREATE TABLE comments1 (
+cid int(11) not null AUTO_INCREMENT PRIMARY KEY,
+uid varchar(128) not null,
+date datetime not null,
+message text not null
+);
