@@ -18,7 +18,7 @@ Configuration:
 2. In a web browser of your choice navagate to XAMPP's phpMyAdmin url (for me this url is "http://my-computers-name-on-local-network.local/phpmyadmin/").
 3. Create a new database.
 4. Enter your newly created database and click the "SQL" button to run SQL query/queries on your database.
-5. Paste the following queries:
+5. Paste the following queries:  
     CREATE TABLE users (
     idUsers int(11) AUTO_INCREMENT PRIMARY KEY NOT NULL,
     usernameUsers TINYTEXT NOT NULL,
